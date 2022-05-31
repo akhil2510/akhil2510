@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning spring-boot , JPA , servlets.
 
-- 👯 I’m looking to collaborate on backend devlopment using JAVA 
+- 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on backend devlopment using JAVA 
 
 - 💬 Ask me about - Data structures, Algorithms ,Node.Js, JAVA, CPP , JavaScript.
 
