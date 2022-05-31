@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on backend devlopment using JAVA 
 
-- 💬 Ask me about - Data structures, Algorithms , JAVA, CPP
+- 💬 Ask me about - Data structures, Algorithms ,Node.Js, JAVA, CPP , JavaScript.
 
 - 📫 How to reach me: muchhala1840@gmail.com
 
