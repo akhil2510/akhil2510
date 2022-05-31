@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 this is Akhilesh Muchhala
 
-<!--
+
  
 - 🌱 I’m currently learning spring-boot , JPA , servlets.
 
@@ -13,6 +13,6 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact:  I am a mechanical engineering graduate but having  huge interest in software engineering decided to choose this as career.
--->
+
 
 
