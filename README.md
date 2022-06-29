@@ -12,7 +12,6 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact:  I am a mechanical engineering graduate but having  huge interest in software engineering decided to choose this as career.
 
 
 
