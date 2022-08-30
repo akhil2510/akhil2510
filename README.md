@@ -10,8 +10,6 @@
 
 - 📫 How to reach me: muchhala1840@gmail.com
 
-- 😄 Pronouns: He/Him
-
 
 
 
