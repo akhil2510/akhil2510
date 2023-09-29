@@ -2,7 +2,7 @@
 
 
  
-- 🌱 I’m currently learning spring-boot , JPA , servlets.
+- 🌱 I’m currently learning Nodejs, PostgreSQL ,Python .
 
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on backend devlopment using JAVA 
 
