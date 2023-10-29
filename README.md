@@ -2,7 +2,7 @@
 
 
  
-- 🌱 I’m currently learning Nodejs, PostgreSQL ,Python .
+- 🌱 I’m currently learning Nodejs, PostgreSQL ,JAVA .
 
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on backend devlopment using JAVA 
 
